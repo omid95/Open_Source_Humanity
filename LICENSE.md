@@ -1,2 +1,2 @@
-This project is going to be a an open source.
-I will decide on the exact licence type as I get infomed about diffrent licence types(MIT, Apache, ...)
+This project is meant to be an open-source project.
+The exact license type will be decided after I learn more about the different licensing options (MIT, Apache, ...)
