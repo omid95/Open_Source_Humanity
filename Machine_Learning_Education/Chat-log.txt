@@ -1,0 +1,26 @@
+Whatsapp chat with Dembe Oscar
+
+I have always confused about the difference between classification and clustering.
+ok, looks like clustering is used on unlabeled data
+Classification is a technique where the models predict different categories according to the labels attached but in clustering there are no labels and the model has to learn to create it's own categories
+ok, for a person like me who learns by example, we need to get more real work examples
+I am going to focus on this diffrence
+until I gain full confidence
+I need to find some examples of algorithm for both
+I am going to ask you questions
+Okay Sir
+k-mean is clustering?
+K-means is an algorithm for clustering datasets according to specific points in the data
+do you have a real-world example/algorithm for it?
+The real world examples for k-means can include data from banks. Usually banks would want to predict and cluster customers according to there behaviour and know how to do marketing for the different clusters generated
+Ok, let's find some implemented algorithm (code) and play with them
+not just k-mean but any other clusteing methods
+My times up for today(this part of my day)
+thank you for chating
+https://developers.google.com/machine-learning/clustering/clustering-algorithms
+You this is a good method of learning : being curious and ask lots of questions
+That is a big question for me: How to make students curious?
+Please take a note --- we need to make student curious, so they keep asking questions----------
+Okay, but am wondering how this can be achieved. Usually   to make people curious, you start with the applications of the algorithm and people get interest
+One approach is to make them think (unconsciously). to make them engage don't start with ML, start with things that they know and love
+for example if you want to teach a kid the concept of "height", you can start talking about their toys , then put their toys side by side and say this toy is higher than this one, because it goes higher to the sky!
