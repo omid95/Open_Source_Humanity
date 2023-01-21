@@ -1,0 +1,9 @@
+Breakdown of the polygen model
+-Auto-regressive models
+-Transformers
+  -Feedforward networks
+  
+-Random points for initialisation of the model
+-Predictions can be used as inputs in the next training iteration
+
+-Learn starting from the bigger picture(Polygen model) then break it down to the smallest pieces. implement the small pieces with a bigger picture in mind
