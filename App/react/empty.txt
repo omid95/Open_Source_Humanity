@@ -1,1 +1,2 @@
-
+things to do
+  create authentication/authrization using Auth 2.0, JWT or OpenID Connect.
